@@ -11,7 +11,7 @@ namespace Ships
         static void Main(string[] args)
         {
             while (true)
-            {
+            {//Board
 
                 Board();
                 Console.WriteLine("Hru ukoncis zadanim 'exit'.");
